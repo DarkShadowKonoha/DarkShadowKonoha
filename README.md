@@ -11,7 +11,8 @@ I've created my own automated rescue-maze robot using Arduino.
 - C/C++
 - HTML/CSS
 - MySQL
-- Arduino
+- Data Analytics
+- Data Visualization
 
 ### Interests
 - I'm intrested in cycling and e-sports.
