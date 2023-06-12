@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a real-time video chat web app.<br>🌱 I’m currently learning Django.<br>💬 Ask me about Machine Learning, Python
+🔭 I’m currently working on a Invoice Management Project.<br>🌱 I’m currently learning Salesforce.<br>💬 Ask me about Machine Learning, Python.
 
 
 ## 🌐 Socials:
