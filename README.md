@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Girish Jha</h1>
 <h3 align="center">A data science enthusiast with main focus on ML and DNN.</h3>
 
-- 🔭 I’m currently working on **Invoice Management Project**
 
-- 🌱 I’m currently learning **Salesforce, Java Servlet & JDBC**
+- 🌱 I’m currently learning **Source Separation**
 
 - 👨‍💻 All of my projects are available at [https://girish-jha-portfolio.netlify.app/](https://girish-jha-portfolio.netlify.app/)
 
